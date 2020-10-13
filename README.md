@@ -18,3 +18,7 @@ In this workshop, participants will understand the functionality of different co
 ## Deployment
 After your pull request is approved, you'll be able to see your website on your local host and store it as a repo in your github!
 
+## Getting Started 
+1. Make sure you have an IDE and Node.js installed
+2. Clone this repo
+3. Follow [TrackIT](https://trackit.acmutd.co/) ID: to customize. 
