@@ -31,12 +31,12 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "bootstrap": "4.3.1",
-        "jquery": "3.4.1",
+        "jquery": "^3.5.1",
         "jquery.easing": "^1.4.1",
         "magnific-popup": "^1.1.0"
     },
     "devDependencies": {
-        "browser-sync": "2.26.7",
+        "browser-sync": "^2.26.12",
         "del": "5.1.0",
         "gulp": "4.0.2",
         "gulp-autoprefixer": "7.0.0",
