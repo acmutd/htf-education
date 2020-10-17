@@ -20,5 +20,5 @@ After your pull request is approved, you'll be able to see your website on your 
 
 ## Getting Started 
 1. Make sure you have an IDE and Node.js installed
-2. Clone this repo
-3. Follow [TrackIT](https://trackit.acmutd.co/) ID: to customize. 
+2. Fork this repo, clone the fork
+3. Follow [TrackIT](https://trackit.acmutd.co/) ID: Personal Website Workshop 
