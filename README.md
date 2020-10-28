@@ -13,6 +13,7 @@ If you don't see your website on this list and you attended ACM Hacktoberfest [c
  - [Abigail](https://education.acmutd.co/portfolios/abigail_thomas/)
  - [Amrutha](https://education.acmutd.co/portfolios/amrutha/)
  - [Awab](https://education.acmutd.co/portfolios/awab/)
+ - [Daniel](https://education.acmutd.co/portfolios/danielhonrales/)
  - [Ethan](https://education.acmutd.co/portfolios/Ethan/)
  - [Farhan](https://education.acmutd.co/portfolios/Farhan/)
  - [Farishah](https://education.acmutd.co/portfolios/farishah/)
