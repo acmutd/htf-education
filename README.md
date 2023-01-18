@@ -36,7 +36,6 @@ If you don't see your website on this list and you attended ACM Hacktoberfest [c
  - [Ryan](https://education.acmutd.co/portfolios/ryan/)
  - [Saksham](https://education.acmutd.co/portfolios/saksham)
  - [Tahmeed](https://education.acmutd.co/portfolios/Tahmeed)
- - [Travis](https://education.acmutd.co/portfolios/travis)
  - [Vaughan](https://education.acmutd.co/portfolios/vaughan)
 
 You can also view all the projects by navigating [here](https://education.acmutd.co).
