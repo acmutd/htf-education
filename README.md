@@ -25,7 +25,6 @@ If you don't see your website on this list and you attended ACM Hacktoberfest [c
  - [Kendal](https://education.acmutd.co/portfolios/Kendal-Wiggins/)
  - [Kushal](https://education.acmutd.co/portfolios/Kushal/)
  - [Mitchell](https://education.acmutd.co/portfolios/mitchell)
- - [Nam](https://education.acmutd.co/portfolios/nam/)
  - [Neha](https://education.acmutd.co/portfolios/Neha/)
  - [Nirranjan](https://education.acmutd.co/portfolios/nirranjan)
  - [Paul](https://education.acmutd.co/portfolios/paul/)
