@@ -16,7 +16,6 @@ If you don't see your website on this list and you attended ACM Hacktoberfest [c
  - [Daniel](https://education.acmutd.co/portfolios/danielhonrales/)
  - [Ethan](https://education.acmutd.co/portfolios/Ethan/)
  - [Farhan](https://education.acmutd.co/portfolios/Farhan/)
- - [Farishah](https://education.acmutd.co/portfolios/farishah/)
  - [Gagan](https://education.acmutd.co/portfolios/gagan/)
  - [Hannah](https://education.acmutd.co/portfolios/hannah/)
  - [Ian](https://education.acmutd.co/portfolios/IanYbarra/)
