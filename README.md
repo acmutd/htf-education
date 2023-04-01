@@ -28,7 +28,6 @@ If you don't see your website on this list and you attended ACM Hacktoberfest [c
  - [Nirranjan](https://education.acmutd.co/portfolios/nirranjan)
  - [Paul](https://education.acmutd.co/portfolios/paul/)
  - [Pingkeng](https://education.acmutd.co/portfolios/pingkeng)
- - [pxs005](https://education.acmutd.co/portfolios/pxs005/)
  - [Rajmeet](https://education.acmutd.co/portfolios/Rajmeet)
  - [Richard](https://education.acmutd.co/portfolios/richard/)
  - [Ryan](https://education.acmutd.co/portfolios/ryan/)
