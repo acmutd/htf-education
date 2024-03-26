@@ -20,7 +20,6 @@ If you don't see your website on this list and you attended ACM Hacktoberfest [c
  - [Hannah](https://education.acmutd.co/portfolios/hannah/)
  - [Ian](https://education.acmutd.co/portfolios/IanYbarra/)
  - [Jaden](https://education.acmutd.co/portfolios/jaden/)
- - [Jerry](https://education.acmutd.co/portfolios/jerry/)
  - [Kendal](https://education.acmutd.co/portfolios/Kendal-Wiggins/)
  - [Kushal](https://education.acmutd.co/portfolios/Kushal/)
  - [Mitchell](https://education.acmutd.co/portfolios/mitchell)
